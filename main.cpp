@@ -7,7 +7,6 @@ int main(){
     int nom[n],cambio[n+1][1000];
     for (int i = 0; i < n; i++){
         cin>>nom[i];
-        cout << nom[i] << endl;
     }
     while (intento==1){
         cin>>p>>q;
